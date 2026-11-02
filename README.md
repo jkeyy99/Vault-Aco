@@ -13,4 +13,4 @@ Nous rassemblons une communauté active (environ 30 membres) d'utilisateurs et d
 * **Automatisation Web (Bots) :** Partage de ressources, de scripts et de bonnes pratiques pour optimiser les processus d'achat en ligne de manière automatisée.
 * **Support technique :** Résolution de bugs et aide au déploiement des environnements logiciels de chaque utilisateur.
 
-💬 **Rejoindre la communauté :** [Cliquez ici pour accéder à notre serveur Discord]()
+💬 **Rejoindre la communauté :** [Cliquez ici pour accéder à notre serveur Discord](https://discord.gg/cnjmXzhUff)
